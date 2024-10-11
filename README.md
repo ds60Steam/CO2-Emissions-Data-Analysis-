@@ -7,5 +7,5 @@ Aim of the Project: To analyze global CO2 emissions, identifying trends across r
 - Interactive Visualizations: Users can filter by time periods, countries, and sectors to gain tailored insights.
   
 # Technology Stack:
-Power BI for creating interactive dashboards and visualizations.
-DAX (Data Analysis Expressions) for complex measures and calculated columns.
+- Power BI for creating interactive dashboards and visualizations.
+- DAX (Data Analysis Expressions) for complex measures and calculated columns.
